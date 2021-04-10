@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-watch-streams-nodejs",
+  "version": "1.0.0",
+  "description": "Mongodb change streams Node.js example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkrajukhunt/mongodb-watch-streams-nodejs.git"
+  },
+  "author": "Raju Khunt <rajukhunt15@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rkrajukhunt/mongodb-watch-streams-nodejs/issues"
+  },
+  "homepage": "https://github.com/rkrajukhunt/mongodb-watch-streams-nodejs#readme",
+  "dependencies": {
+    "mongodb": "^3.1.3"
+  }
+}
